@@ -16,6 +16,34 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
+}
+
+.melon {
+  font-family: "Rammetto One", cursive;
+}
+
+.star {
+  font-family: "Gravitas One", cursive;
+}
+
+.per {
+  font-family: Comfortaa, cursive;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.bcm {
+  background-color: #e97065;
+}
+
+.bcs {
+  background-color: #fbd25e;
+}
+
+.bcp {
+  background-color: #e86033;
 }
